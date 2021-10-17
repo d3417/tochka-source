@@ -7,7 +7,7 @@ import (
 
 	"github.com/gocraft/web"
 
-	"qxklmrhx7qkzais6.onion/Tochka/tochka-free-market/modules/util"
+	"github.com/d3417/tochka-source/modules/util"
 )
 
 func (c *Context) parseItemsQuery(w web.ResponseWriter, r *web.Request, mobbileAppVersion bool) {

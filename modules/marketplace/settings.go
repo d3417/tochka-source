@@ -2,7 +2,7 @@ package marketplace
 
 import (
 	"github.com/microcosm-cc/bluemonday"
-	"qxklmrhx7qkzais6.onion/Tochka/tochka-free-market/modules/settings"
+	"github.com/d3417/tochka-source/modules/settings"
 	"regexp"
 )
 

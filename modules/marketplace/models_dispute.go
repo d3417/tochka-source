@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"github.com/jinzhu/gorm"
-	"qxklmrhx7qkzais6.onion/Tochka/tochka-free-market/modules/util"
+	"github.com/d3417/tochka-source/modules/util"
 )
 
 type Dispute struct {

@@ -8,7 +8,7 @@ import (
 
 	"github.com/jinzhu/gorm"
 
-	"qxklmrhx7qkzais6.onion/Tochka/tochka-free-market/modules/apis"
+	"github.com/d3417/tochka-source/modules/apis"
 )
 
 var (
