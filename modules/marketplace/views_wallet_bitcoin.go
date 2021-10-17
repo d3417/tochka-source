@@ -9,7 +9,7 @@ import (
 	btcqr "github.com/GeertJohan/go.btcqr"
 	"github.com/dchest/captcha"
 	"github.com/gocraft/web"
-	"qxklmrhx7qkzais6.onion/Tochka/tochka-free-market/modules/util"
+	"github.com/d3417/tochka-source/modules/util"
 )
 
 func (c *Context) BitcoinWalletRecieve(w web.ResponseWriter, r *web.Request) {
