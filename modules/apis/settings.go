@@ -1,7 +1,7 @@
 package apis
 
 import (
-	"qxklmrhx7qkzais6.onion/Tochka/tochka-free-market/modules/settings"
+	"github.com/d3417/tochka-source/modules/settings"
 )
 
 var (
